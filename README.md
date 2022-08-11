@@ -1,3 +1,5 @@
+# I will be modifying the templates for further defense evasion @iSuperstar
+
 ### C++ shellcode launcher
 
 A collection of DLL wrappers around various shellcode injection and obfuscation techniques. Based on the [charlotte](https://github.com/9emin1/charlotte) tool.
